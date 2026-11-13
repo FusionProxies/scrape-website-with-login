@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=scrape-website-with-login">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=scrape-website-with-login">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -97,7 +97,7 @@ See [playwright-proxy](https://github.com/FusionProxies/playwright-proxy) for Pl
 - [scrape-infinite-scroll](https://github.com/FusionProxies/scrape-infinite-scroll) and [scrape-javascript-website](https://github.com/FusionProxies/scrape-javascript-website): more scraping techniques
 - [python-requests-proxy](https://github.com/FusionProxies/python-requests-proxy): sticky sessions and every other proxy option in requests
 
-[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=scrape-website-with-login) with sticky sessions up to 120 minutes, from $2.95/GB. [Free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=scrape-website-with-login).
+[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=scrape-website-with-login) with sticky sessions up to 120 minutes, from $2.95/GB. [Free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=scrape-website-with-login).
 
 ## License
 
